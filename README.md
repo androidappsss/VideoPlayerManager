@@ -17,7 +17,7 @@ These two libraries combined are the tool to get a Video Playback in the scrolli
 # Details of implementation
 
 [![Medium](https://img.shields.io/badge/Meduim-Implementing%20video%20playback%20in%20a%20scrolled%20list%20(ListView%20%26%20RecyclerView)-blue.svg)](https://medium.com/@v.danylo/implementing-video-playback-in-a-scrolled-list-listview-recyclerview-d04bc2148429)
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 [![Android_weekly](https://img.shields.io/badge/Android%20Weekly-%09Implementing%20video%20playback%20in%20a%20scrolled%20list-green.svg)](http://androidweekly.net/issues/issue-189)
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-VideoPlayerManager-green.svg?style=true)](https://android-arsenal.com/details/1/3073)
